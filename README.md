@@ -16,3 +16,6 @@ My name is Ken, and whilst I enjoy and share a great interest in computers, my a
 
 
 Thank you for reading, and thanks for trying out KAIC. I'm very excited to roll it out and update it!
+
+The below text is for the client to compare its' version with the current version on GitHub.
+AQe3d0M Current Version: 0.6.17
