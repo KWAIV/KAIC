@@ -20,4 +20,5 @@ Thank you for reading, and thanks for trying out KAIC. I'm very excited to roll 
 
 
 The below text is for the client to compare its' version with the current version on GitHub.
+
 AQe3d0M Current Version: 0.6.17
